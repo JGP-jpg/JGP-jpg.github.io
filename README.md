@@ -23,7 +23,7 @@ The point was to make three enhancements to one or multiple artifacts, so I chos
     - A benefit to using Android Studio is having access to built-in features such as Room DB which is a library that works as a layer over SQLite. Switching to Room DB allowed me to maintain best coding practices through separation of concerns and organized code. 
 
 ## Code Review
-This code review provides a walk-through of my original artifact and details the ways in which I planned to make each enhancement. Additionally, I took that opportunity to acknowledge the preexisting errors and warnings within my code. 
+This code review provides a walk-through of my original artifact and details the ways in which I planned to make each enhancement. Additionally, I took that opportunity to acknowledge the preexisting errors and warnings within my code. [Click here for the code review!](https://youtu.be/mkwruYMQmUM)
 
 ## Enhancement One
 #### MVVM Architecture
